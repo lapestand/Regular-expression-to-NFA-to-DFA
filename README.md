@@ -5,4 +5,4 @@ Input: Regular expression (Infıx)
 
 Current Output: NFA Transition Table & Epsilon Closures
 
-Next Outpu: DFA Table
+Next Output: DFA Table
