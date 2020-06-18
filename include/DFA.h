@@ -1,5 +1,5 @@
 //
-// Created by lapestand on 5.06.2020.
+// Created by izztylmaz on 4.06.2020.
 //
 
 #ifndef RE_FA_DFA_H
